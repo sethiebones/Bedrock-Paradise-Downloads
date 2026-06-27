@@ -1,5 +1,5 @@
 <h3> 0.0 - Breaking Ground </h3>
-<img src="https://raw.githubusercontent.com/sethiebones/Bedrock-Paradise-Downloads/main/releases/0.0/0.0_Banner.png" alt="Bedrock Paradise logo featuring a Whirlm from the addon" class="banner"/>
+<img src="./0.0_Banner.png" alt="Leafos standing next to a garden sighn and a Whirlm. A shovel floats over the garden sign." class="banner"/>
 <p>
 Leafos needs your help! The soil of this neglected garden has hardened to a point where even weeds might have trouble growing. Grab a shovel and get to whacking. You might just attract the attention of a sweet visitor or two.
 </p>
@@ -19,3 +19,4 @@ This initial release includes many features with the aim of building a solid bas
 * And more!
     * Exploring the creative menu may yield interesting results.
 </p>
+<p>The latest release can be found <a href="./Bedrock%20Paradise.mcaddon">here</a></p>
