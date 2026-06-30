@@ -38,7 +38,7 @@ LunarBKO - Project Initiatior
 <h2> Licenses </h2>
 <ul>
 <li>
-   Pinata Bedrock is licensed und an MIT License. The full license can be viewed <a href="/LICENSE">here</a>.
+   Bedrock Paradise is licensed und an MIT License. The full license can be viewed <a href="/LICENSE">here</a>.
 </li>
 <br>
 <li>
