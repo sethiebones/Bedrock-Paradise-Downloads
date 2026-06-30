@@ -30,13 +30,26 @@ This initial release includes many features with the aim of building a solid bas
 <p>The latest release can be found <a href="https://github.com/sethiebones/Bedrock-Paradise-Downloads/blob/main/Bedrock%20Paradise.mcaddon">here</a></p>
 <p>Click the link above and on the right hand side of the screen you should find the "download raw file" button as shown below.</p>
 <img src="/images/Installation00.png" alt=""/>
+<p>Alternatively, you can explore the releases folder to locate a .mcaddon file of your desired release and download it as stated above.</p>
 <p>Open your newly downloaded .mcaddon file and it will automatically add the pack to Minecraft and open the game.</p>
 <p>Now you can create a new world and enable the pack in either the resource or behavior pack. Be sure to enable the -beta APIs experimental toggle as well. Have Fun!</p>
 <h2> Credits </h2>
 LunarBKO - Project Initiatior
-<h2> Licence </h2>
-<p>Viva Piñata: Trouble in Paradise © Microsoft Corporation. Bedrock Paradise was created under Microsoft's "Game Content Usage Rules" using assets from Viva Piñata: Trouble in Paradise, and it is not endorsed by or affiliated with Microsoft.
+<h2> Licenses </h2>
+<ul>
+<li>
+   Pinata Bedrock is licensed und an MIT License. The full license can be viewed <a href="/LICENSE">here</a>.
+</li>
+<br>
+<li>
+   Some sound effects provided by <a href=https://www.audiohero.com/>Audio Hero</a>
+</li>
+<br>
+<li>
+Viva Piñata: Trouble in Paradise © Microsoft Corporation. Bedrock Paradise was created under Microsoft's "Game Content Usage Rules" using assets from Viva Piñata: Trouble in Paradise, and it is not endorsed by or affiliated with Microsoft.
 
 To learn more about Microsoft's "Game Content Usage Rules" visit the link below:
 
-https://www.xbox.com/en-US/developers/rules</p>
+https://www.xbox.com/en-US/developers/rules
+</li>
+</ul>
