@@ -34,7 +34,7 @@ This initial release includes many features with the aim of building a solid bas
 <p>Open your newly downloaded .mcaddon file and it will automatically add the pack to Minecraft and open the game.</p>
 <p>Now you can create a new world and enable the pack in either the resource or behavior pack. Be sure to enable the -beta APIs experimental toggle as well. Have Fun!</p>
 <h2> Credits </h2>
-LunarBKO - Project Initiatior
+LunarDev - Project Initiatior | Check out his mod for Java <a href="[/LICENSE](https://modrinth.com/mod/bedrock-paradise)">here</a>.
 <h2> Licenses </h2>
 <ul>
 <li>
